@@ -1,4 +1,4 @@
-# Funel Style Guide
+# Growthy Style Guide
 
 ## Html import links
 
